@@ -1,0 +1,46 @@
+UNDEFINED STRING
+The DUALSHOCK®2 analog controller in controller port %d has been removed. Reinsert the DUALSHOCK®2 analog controller and press = to continue with the game.
+The analog controller (DUALSHOCK®2) in controller port %d has been removed. Reinsert the analog controller (DUALSHOCK®2) and press = to continue with the game.
+Please reconnect the controller and press = to continue.
+Unable to load game, press = to continue.
+The DUALSHOCK®2 analog controller is not detected. Please attach the DUALSHOCK®2 analog controller and press = to continue.
+The analog controller (DUALSHOCK®2) is not detected. Please attach the analog controller (DUALSHOCK®2) and press = to continue.
+memory card (PS2) in MEMORY CARD slot %d is unformatted. Do you want to format it?
+No
+Yes
+{}  Move    =  Accept
+Are you sure you wish to format memory card (PS2) in MEMORY CARD slot 1?
+Formatting memory card (PS2) in MEMORY CARD slot %d. Do not remove memory card (PS2), controller, or reset/switch off the console.
+Load failed! Check memory card (PS2) in MEMORY CARD slot %d and try again.
+Retry
+Continue
+Loading data. Do not remove memory card (PS2) in MEMORY CARD slot %d, controller, or reset/switch off the console.
+A different memory card (PS2) has been inserted in slot %d
+Turn save off
+Use this card (data will be loaded)
+Data has changed. Overwrite previous %s data?
+No memory card (PS2) inserted in MEMORY CARD slot 1. If you wish to save your game data, please insert a memory card (PS2) with at least %d KB of free space. Would you like to continue without saving?
+Insufficient space on memory card (PS2) in MEMORY CARD slot %d. %s requires %d KB free space to save data.
+Save failed. Data may be corrupt. Would you like to overwrite?
+Saving data. Do not remove memory card (PS2) in MEMORY CARD slot %d, controller, or reset/switch off the console.
+Autosaving data. Do not remove memory card (PS2) in MEMORY CARD slot %d, controller, or reset/switch off the console.
+Select MEMORY CARD slot
+MEMORY CARD slot 1
+MEMORY CARD slot 2
+Format failed! Please check memory card (PS2) in MEMORY CARD slot %d and try again.
+Checking memory card (PS2) in MEMORY CARD slot %d. Do not remove memory card (PS2), controller, or reset/switch off the console.
+The memory card (PS2) in MEMORY CARD slot %d has been disconnected.
+Press = to continue
+No memory card (PS2) in MEMORY CARD slot %d.
+No %s save data present on memory card (PS2) in MEMORY CARD slot %d
+Load game from memory card (PS2) in MEMORY CARD slot %d? Current game will be lost!
+Insufficient free space on memory card (PS2) in MEMORY CARD slot %d. Insert a memory card (PS2) with at least %dKB of free space, or create some space using the console's internal browser. Do you want to continue?
+memory card (PS2) in MEMORY CARD slot %d is unformatted.
+No %s save data present on memory card (PS2) in MEMORY CARD slot %d. Do you wish to create save data and save this file now?
+Load failed. Data may be corrupted.
+Cancel
+Data on the memory card (PS2) may be corrupt. Would you like to create new %s save data?
+%s uses an Autosave feature. Insertion of a memory card (PS2) beyond this point may cause data to be overwritten.
+Format Successful
+
+Cancel save?

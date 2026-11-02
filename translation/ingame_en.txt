@@ -1,0 +1,1294 @@
+= Exit
+^ Pick up
+You have unlocked new Concept Art
+Johnny Cage:\nThey're coming in through the\nfront gate. We must get around\nto the back.
+Johnny Cage:\nAmbushed!!\nFend them off while i go open the gate.
+Johnny Cage:\nDefend me while I close the front gate.
+Johnny Cage:\nGood. Now come back to the center\ncourtyard to help me open the\ncenter gate.
+Johnny Cage:\nGet a sword from the armory\nto release the rear defenses.
+Defeat these enemies with\nbasic kombat abilities.
+You MUST perform a block to progress\nLock-On and Block\nHold #\n` changes target.
+Air Kombat\n Press = to jump. Any attack\n performs an air move.
+First, perform combos to build up the\n fatality meter.
+Excellent! If you need further help,\npress the START button for more\ninformation.
+You need to perform a Fatality\nto open the gates.
+Long Jump Ability\nHold $ + =
+Only those that present an offering\nmay enter the warrior shrine.
+Johnny Cage:\nKeep moving\nWe have to get to the back.
+A statue filled with evil energy\nblocks your path. You will need the\nFist of Ruin ability to break it.
+Smoke:\nOnly through completing these tasks\nWill the true secrets be revealed.
+Smoke:\nQuest 1 (Soul Tombs)\nBreak down walls to\nfind the hidden fatality.
+Smoke:\nQuest 1 Completed
+Smoke:\nExcellent! Reward: 500exp.\nYour next quest is ready.
+This is Goro's lair, it is\n one of Shang Tsungs traps. You must\n find your way off the island before it\n crumbles into the sea. make your way to the Wu-shi academy.
+Follow my instructions,\n or you will die!
+*   quick attacks.\n~   launching attacks.\n|   power attacks.\n^   throws.
+Running Attacks\nWhile running, press any attack \nbutton.
+Special Moves\nHold $ + any attack
+Use an enemy's body to break\nthis wall.\n^ Throw\n
+Multi-Directional Kombat.\nFight multiple enemies at the same time.
+Striking in different directions\n with different attacks can disable\n more enemies, and result in bigger Kombos.
+Weapon Kombat\n ^ to pickup weapon.
+If you are knocked into the air,\nor down on the ground.\nPress = to perform \na quick recovery.
+Hazards in the background can\n work for or against you. Knock these\n enemies upin the air to impale them\n on the spikes,but careful not to get knocked into them.
+Johnny Cage:\nJump and grab the ledges to\nget out of the pit.\nThe exit is this way.
+Raiden:\nTutorial Message 13.
+Raiden:\nTutorial Message 14.
+Raiden:\nTutorial Message 15.
+Kitana:\nFinally, I am free... Thank you...\nbut quickly, the others will not\nlet me go without a fight.
+Kitana:\nNow! Activate the trap!\n(Press ^ to activate the switch)
+Raiden's Voice:\nYou must keep them from freeing\nKitana! It will take some time\nfor the spell to break!
+Wait! Princess Kitana is not\nyour enemy! Shang Tsung's sorcery\nhas bent her will to his own...
+Fortunately, one of the demonic devices in\nthe room beyond this portal can be used to\nfree her from the sorcerer's glamour...
+Weaken her in kombat to place her in the\ndevice. If freed, we may be able to sway her\nto our cause. She will not however be easily\nripped from her master's grasp.
+Be cautious...and watch your back...
+TEST YOUR MIGHT\nPress attack buttons to build meter.\n @ or $ to confirm.
+Weaken Kitana to place her in the\ndevice...Be careful of the Outworld\nassassins, if given the chance they\nwill attempt to free her.
+Defeat the outworld assassins!\nSome of the traps around the arena\nmay be of use...
+Keep Mileena and Jade from freeing\nKitana before the spell placed on her\nis broken!
++1 added to Portal Count
+Your Health has been fully restored
+Wall Climb ability has been gained!\nUse your new skill to climb out of\nthe sewer.
+Break the weakened pillar piece with\nthe Fist of Ruin ability!
+Goro's Lair
+Wu-Shi Academy
+Monastery
+Living Forest
+Netherrealm
+Wasteland
+Soul Tombs
+Foundry
+^ Activate
+Evil Monastery
+Living Tree Hint:\nSatisfy the forest's cravings to pass.
+Living Tree Hint:\nThe forest hungers for life.
+Living Tree Hint:\nReveal all 3 hints to battle Reptile.
+Living Tree Hint:\nSmoke will reveal more secrets.
+Living Tree Hint:\nReptile hides with the giant snakes.
+Empty.
+^ Interact
+Smoke:\nQuest 2 (Wu-shi Academy)\nDestroy evil barriers to find\n the Warrior Shrine.
+Smoke:\nQuest 2 Completed
+Smoke:\nExcellent! Reward: 700exp.\nYour next quest is ready.
+Raiden: Mileena has been defeated.\nFor now. Collect the reward\nand continue your quest.
+Excellent!
+NEW ABILITY:\nSwing ability has been gained!\nJump into any horizontal pole\nto swing.
+You have returned Sub-Zero's Ice Medallion
+You will need to go to the Soul Tombs\nto retrieve my Ice Medallion, Then I can\nhelp you get to Goro's Fortress
+Sub-Zero:\nWall climb up to the exit. Goro is just ahead.
+Sub-Zero:\nDefend me while I freeze this falling blood.
+Sub-Zero:\nThe exit must be up top.\nWe need to get there somehow.
+Sub-Zero:\nYou will not be able to cross alone.\nDefend me while I create a wall to run on.
+Sub-Zero:\nNow wall run across.
+Sub-Zero:\nI've been knocked into the pit. Help me\ndefeat the Black Dragon Mercenaries\nso I can escape.
+NEW ABILITY: Wall run ability\nhas been gained! Move towards\na wall and use $.
+You have killed a Banshee
+A warrior with enough tournament\nvictories may pass through.
+You can't go into the portal until\nthe main academy halls are safe.\nHurry back to save the\nburning academy.
+Multality Obtained! You now have\nthe power to instantly kill\nmultiple enemies.
+Multality\nPress START button to enter the game menu.\nToggle to the fatality section\nfor known multalities.
+You Need to perform a multality\nto progress.
+Brutality Obtained! You now have\nthe power to instantly kill multiple\nenemies for a short time.
+Excellent! If you need further help,\npress the START button for\nmore information.
+You need to perform a Brutality\nto progress.
+Smoke:\nQuest 3 (Soul Tombs)\nPerform 3 sacrifices in the torture room.
+Smoke:\nQuest 3 Completed
+Smoke:\nAll Quests Complete\nYou have unlocked MK2.
+Fatality Obtained!\n You now have the ability to\n instantly kill an enemy.
+Use an enemy's body to break this wall.\n^ Throw\n
+You have obtained the Fist of Ruin!\nAll powerful attacks will now break\nsome objects!
+Try looking before jumping into\na new area, you never know what\nyou might find.
+` controls the camera. R3 button\ntoggles camera modes: close,\nnormal, and panoramic
+Remember, Lock-on, # , \n to block incoming attacks.
+The guards ahead hold the \nkey to the only portal on this island.\nDefeat them!
+Now! Hit the enemy with the\n fatality stunner.       @
+Now! impale Baraka with\nyour sword!
+Again! Impale Baraka and\nFinish Him!
+Double Jump ability has been gained! Press = while in the air.
+Wall jump ability has been gained!\nPress the = button when next to\na wall to jump off of it.
+You MUST perform a block to progress\n # Lock-on, block.
+= Living\nForest
+= Soul Tombs
+= WuShi\nAcademy
+= The Foundry
+= Evil\nMonastery
+A statue of the Earthrealm \nwarrior Sonya Blade.
+The God of Thunder, Raiden, cast in stone.
+The Champion of Earthrealm, Liu Kang.
+The fearsome Prince of the Shokan, Goro.
+Kano, the brutal Earthrealm criminal.
+An incredibly lifelike statue \nof  the Earthrealm\n warrior and actor, Johnny Cage.
+A mysterious combatant...
+This statue seems different than \n the other statues at the shrine...
+The statue begins to shake!
+= Outworld
+= Tsung's\nIsland
+These could help break the barrier down.
+You have unlocked a new Movie
+You have unlocked a new Vs. Arena
+You have unlocked a new Playable Character
+You have unlocked a new Soundtrack
+You have unlocked a new Photo
+You have acquired a Health Upgrade
+You have found a Hidden Fatality
+You have unlocked Survival Mode
+Toasty!
+I need something sharp to release the\ndefenses.
+Wall jump ability has been gained!\nPress = when next to a wall to jump off of it
+= Wasteland
+= The Portal
+= Netherrealm
+You have obtained a Tournament Victory\n for defeating this opponent.
+Test Your Might
+Get Ready!
+Flawless Victory
+The Deadpool
+This part of the snake's scales seem\n weaker than the rest...
+Smoke:\nQuest 4 (The Portal)\nFind all purple portals and\nthrow an enemy into each one.
+Smoke:\nQuest 4 Completed
+This door is locked by a torture device.
+Once a guardian of the tombs\nthis creature now rests.
+The source of Shang Tsung's power.\nIt must be destroyed!
+These crystals will require a powerful\nweapon to destroy them.
+This door is locked by a mystical force.
+Level 1
+Level 2
+Level 3
+Level 4
+Level 5
+Level 6
+Level 7
+Level 8
+Level 9
+Level 10
+Level 11
+Level 12
+Level 13
+Level 14
+Level 15
+Level 16
+Level 17
+Level 18
+Level 19
+Level 20
+Smoke:\nQuest 5 (The Pit II)\nEnter this portal\nand survive in the frozen peaks.
+Smoke:\nQuest 5 Completed
+Smoke:\nExcellent! Reward: 700exp.
+I can get out when I want to.\nI'm just resting.
+Thank god you're here!\nKahn has trapped us all.
+You must defeat Kahn to save us.
+I think I saw some other prisoners\n taken down that hallway.
+Oh no! They heard us!\nHere come the guards!
+= Wasteland Dock
+= Castle\nEntrance
+A pile of bodies blocks this entrance.
+You have gained the Double Jump Ability!\nJumping at the height of your jump will\nallow you to travel higher.
+Jax left behind something\n to help with Shao Kahn...
+Sub-Zero has been unlocked (Vs).
+Scorpion has been unlocked (Vs).
+Baraka has been unlocked (Vs).
+Reptile has been unlocked (Vs).
+Kitana has been unlocked (Vs).
+Johnny Cage has been unlocked (Vs).
+Goro's Lair unlocked for Vs. Mode.
+The Warrior Shrine unlocked for Vs. Mode.
+Wu Shi Arena unlocked for Vs. Mode.
+The Wastelands unlocked for Vs. Mode.
+The Tower unlocked for Vs. Mode.
+The Dead Pool unlocked for Vs. Mode.
+The Kombat Tomb unlocked for Vs. Mode.
+The Living Forest unlocked for Vs. Mode.
+The Kombat Crag unlocked for Vs. Mode.
+You have unlocked new Arena Art.
+You have unlocked new Kontent
+You have unlocked a Fatality Input Image
+You have unlocked Scorpion\nin Story Mode
+You have unlocked Sub-Zero\nin Story Mode
+You will need an ability from Wu Shi\nAcademy to get to the top
+Team Fatality
+You have presented an offering to\nthe Warrior Shrine...
+Your offering has been accepted. You\nmay enter the Warrior Shrine.
+The counterweight for this door is hidden\nelsewhere in the tombs.
+= The Dead\nPool
+= Reptile's\nLair
+You will need an ally to solve this puzzle
+= Evil Monastery
+Run directly at the wall and press the\n$ button to run up it
+Run towards the wall at an angle\nand press the $ button to\nrun along it.
+` controls the camera. Click the right\nthumbstick to toggle camera modes: close,\nnormal, and panoramic.
+We cannot leave this area yet
+Need 2 Controllers
+Multiplier
+loading
+Player 2 Press START \n to Confirm
+Good! Prepare for more!
+Excellent! Now faster!
+You Are Here
+Visited
+Requires
+Player 2 Press START button \n to Confirm
+Fatality Bonus
+Danger
+Need 2 analog controllers (DUALSHOCK®2) 
+You will need the Wall Jump\nability to access this area
+You will need the Swing ability\nto access this area
+You will need the Wall Climb\nability to access this area
+Mirror Select has been unlocked.
+Only Smoke knows how to play MK2.
+Have you seen the Bunny?
+Kung Lao: < > < ? *
+Liu Kang: < ? } } * 
+Find Mustapha
+Can you find Noob? He reveals secrets
+Use Sonya's Slide
+Tell your Friends
+Kano Transformations.
+10,000,000 if you destroy Sdrawde Lhup.
+Some trees are more useful than others
+Sonya Can be freed!
+Where is Kano?
+Kabal says Thank you very much
+Smoke will reveal much to you.
+Boss Rush Mode?
+Breaking objects reveals some secrets.
+Why is Liu Kang Hungry?
+Do you know everything the Hat can do?
+Buy the Bicycle Kick
+^ # $ @
+Ask Ermac for help
+Sometimes your enemy is your friend
+Sub-Zero Multality: { { ? { ~
+Listen to Raiden carefully
+Look up to find some secrets
+Wall run in the Wasteland
+Did you feed ALL the trees in the forest?
+Find Quan Chi and all will be known
+Find more secrets in the Pit
+Where is Kenshi? Why is he blind?
+Some secrets are in Versus mode
+Who else is playable?
+Where did Noob come from?
+Tell your friends - the second time
+Did you break Goro's Chandelier?
+Baraka is playable in Versus mode
+Who will win? Stryker or Cyrax?
+Sheeva. Sheeva! SHEEVA!
+Use the Torpedo Move
+Shaolin Monks are Helpful
+Can you see the invisible penguin?
+Noob has left the build
+Use the spikes
+You will need a big weapon at the end
+Which way to the Dead pool?
+What will the catapults reveal?
+There is no knowledge that is not power
+Free Princess Melewski
+You need to help Jax
+Excellent!\nIf you need further help, press \n START for more information.
+Multality\nPress START to enter the game menu.\nToggle to the fatality section\nfor known multalities.
+*   quick attacks.\n|   launching attacks.\n~   power attacks.\n^   throws.
+You MUST perform a block to progress\nLock-On and Block\nPull and Hold #.\n` changes target.
+Long Jump Ability\nPull and Hold $ + =
+Special Moves\nPull and Hold $ + any attack
+Weapon Kombat\n Press ^ to pickup weapon.
+NEW ABILITY: Wall run ability\nhas been gained! Move towards\na wall and Pull $.
+Wall jump ability has been gained!\nPress = when next to a wall to jump off of it 
+Run directly at the wall and \nPull $ to run up it
+Run towards the wall at an angle\nand Pull $ to\nrun along it.
+Visually different walls may be climbable walls.\nContact with such a wall will enable the player to dig\ninto the wall and climb. The jump button allows the\nplayer to leap from the wall to stage attacks.\n= near surface
+The Rooftops
+The Portal
+The Ice Falls
+The Pit
+Shao Khan's Arena
+The Armory
+The Warrior Shrine
+Wu Shi Arena
+The Wastelands
+The Tower
+The Dead Pool
+The Kombat Tomb
+The Living Forest
+The Kombat Crag
+DEMO
+PRESS SELECT TO BEGIN
+PRESS SELECT TO COMPLETE
+PRESS SELECT TO STOP
+Jeet Kune Do\n*
+Choy Lay Fut\n|
+Mantis\n*
+Monkey\n~
+Shaolin Fist\n|
+Chinese Kempo\n~
+White Lotus\n^
+Tae Kwon Do
+Karate
+Ninjitsu
+Shotokan
+Dragon Claw
+Dragon\n^
+Chain Reaction
+Enemy Kills
+Hits
+Juggle
+Ground
+Koop Hits
+Exp Boost
+One Player
+Two Player
+VS
+Press = To Select Game
+Press = To Switch Player
+Press = To Select Room
+Press = To Select Level
+Press = To Select Mini Game
+Movie Playback
+Music Playback
+Debug Keys Active
+Debug Keys Inactive
+Sub Menu
+= To Change Difficulty
+Easy
+Normal
+Hard
+Tombs
+Wu-Shi
+Forest
+Extra
+Round
+Fight!
+Finish Him!
+Finish Her!
+%s WINS
+DRAW
+Continue
+Select Player
+WIN
+WINS
+Damage
+Combined Damage
+Total Damage
+=
+Alternate Blocking On
+Alternate Blocking Off
+Spell Time
+Reload Level
+Main
+Moves
+Info
+Purchase
+Fatalities
+Smoke
+Basic Moves
+Basic Attacks
+Air Attacks
+Running Attacks
+Upgrade Available for Purchase
+Congratulations! By performing\ncombination attacks and defeating multiple\nenemies, you have gained enough\nexperience to acquire new abilities.
+@
+$
+\\
+Select Moves Type
+User Defined
+Map Select
+Debug Stuff
+Debug Menu
+Save Menu
+Free Cam
+Freeze Cam
+Message History
+Options
+Warp Player
+Exit Game
+Exit Game?\nAll progress will be lost.
+Character Stats
+Experience:
+Total Kills:
+Best Combo:
+Game Time:
+DEATHS:
+Smoke Missions:
+Secrets:
+Game Completed:
+Platform Abilities
+Collectables
+Outworld Overview\n Select a level and press = to view the level map.
+Soul Tombs\n Level Goal: Destroy the Soul Chambers to find Baraka.
+Wasteland\n Level Goal: Work with Sub-Zero to find Goro.
+Foundry\n Level Goal: Forge a weapon to get to Shao Kahn's Arena.
+Goro's Lair\n Level Goal: Escape off the island.
+Wu-Shi Academy\n Level Goal: Save the academy from the tarkatan army.
+Living Forest\n Level Goal: Feed the living trees to find Reptile.
+Netherrealm\n Level Goal: Find and defeat Scorpion.
+Portal and Evil Monastery\n Level Goal: Explore the Outworld.
+Exp: 
+???
+Not Upgraded yet
+Mission Complete
+Saved Games
+Save Unused
+Not Available
+Save Game
+Overwrite Save\nPrevious save\nwill be lost.
+Load Game
+Upgrade
+Yes
+No
+Purchased
+Empty
+Upgraded to Max
+Specials
+Platform
+Combos
+Skill
+Team
+* Special
+~ Special
+| Special
+^ Special
+%s\n\nSquare Special %d Max
+%s\n\nSquare Special %d level Up %d
+%s\n\nTriangle Special %d Max
+%s\n\nTriangle Special %d level Up %d
+%s\n\nCircle Special %d Max
+%s\n\nCircle Special %d level Up %d
+%s\n\n^ Special %d Max
+%s\n\n^ Special %d level Up %d
+%s\n\nCombo moves %d Max
+%s\n\nCombo moves %d level Up %d
+%s\n\nSkill moves %d Max
+%s\n\nSkill moves %d level Up %d
+Quick attack
+Power attack
+Launch attack
+Throw
+Running Quick Attack
+Running Power Attack
+Running Launch Attack
+Running Throw
+Quick Air Attack
+Power Air Attack
+Air Juggle
+Air Throw
+Attacks the character can perform while on the ground
+* Basic quick attacks
+| Basic power attacks
+~ Basic launch attacks
+^ Basic thows
+Attacks the character can perform while running
+] + * Running quick attacks
+] + | Running power attacks
+] + ~ Running launch attacks
+] + ^ Running throw attacks
+Attacks the character can perform while in the air
+* (In air) Airborne quick attacks
+| (In air) Airborne power attacks
+~ (In air) Airborne juggle attacks
+^ (In air) Airborne throws
+The basic attacks the character can perform
+Special Attacks the character can perform
+Combo Attacks the character can perform
+Platform moves acquired by the character
+Skill moves the character has
+Fatalities the character has learned
+Team attacks the character can use in Ko-op Mode
+Special Attacks
+Special Launch Attacks
+Special Power Attacks
+Special Throw Attacks
+Special 1
+Special 2
+Special 3
+Special 4
+Special 5
+NA
+Fireball.\nLiu Kang fires a single, firey projectile.\n$ + *
+High/Low Fireball.\nLiu Kang fires a second, low fireball after the first.\n$ + * , *
+Air Fireball.\nLiu Kang is now able to fire a projectile while in the air.\n(in air) $ + *
+Fireburst Fireball.\nLiu Kang fires a projectile that\nbursts enemies into flames.\n$ + * , * , *
+(PH) Liu Kang Fireball 5 \nDescription\nKey Sequence
+Teleport.\nKung Lao will teleport behind targeted enemy.\n$ + *
+Double Teleport.\nKung Lao teleports twice, returning to\nthe place he started.\n$ + * , *
+Teleport Stun.\nTeleport move that can stun an enemy.\n$ + *
+Teleport 4.\nTBD\n$+*+*+*+*
+Teleport 5.\nTBD\n$+*+*+*+*+*
+Freeze Blast.\nSub-Zero shoots ice to hold an enemy in place for\na short time.\n$ + *
+(PH) Sub-Zero Square 2\nDescription\nKey Sequence
+(PH) Sub-Zero Square 3\nDescription\nKey Sequence
+(PH) Sub-Zero Square 4\nDescription\nKey Sequence
+(PH) Sub-Zero Square 5\nDescription\nKey Sequence
+Warp Attack.\nScorpion warps behind opponent and attacks.\n$ + *
+Air Warp.\nWhile in the air, Scorpion can warp behind opponent.\n$ + * (In Air)
+Flame Port.\nScorpion ignites his opponent and then warps\nbehind them.\n$ + *
+(PH) Scorpion Square 4\nDescription\nKey Sequence
+(PH) Scorpion Square 5\nDescription\nKey Sequence
+Blade Spark\nBaraka fires a bolt of energy at his enemy.\n$ + *
+(PH) Baraka Square 2\nDescription\nKey Sequence
+(PH) Baraka Square 3\nDescription\nKey Sequence
+(PH) Baraka Square 4\nDescription\nKey Sequence
+(PH) Baraka Square 5\nDescription\nKey Sequence
+Acid Spit\nReptile projects an Acidic spit at his enemy.\n$ + *
+(PH) Reptile Square 2\nDescription\nKey Sequence
+(PH) Reptile Square 3\nDescription\nKey Sequence
+(PH) Reptile Square 4\nDescription\nKey Sequence
+(PH) Reptile Square 5\nDescription\nKey Sequence
+Air Jump\nKatana vaults up in the air and strikes forward.\n$ + |
+(PH) Kitana Square 2\nDescription\nKey Sequence
+(PH) Kitana Square 3\nDescription\nKey Sequence
+(PH) Kitana Square 4\nDescription\nKey Sequence
+(PH) Kitana Square 5\nDescription\nKey Sequence
+Sonic Ball\nA ball of sonic energy that damages enemies\n$ + *
+(PH) Johnny Cage Square 2\nDescription\nKey Sequence
+(PH) Johnny Cage Square 3\nDescription\nKey Sequence
+(PH) Johnny Cage Square 4\nDescription\nKey Sequence
+(PH) Johnny Cage Square 5\nDescription\nKey Sequence
+Uppercut.\nLiu Kang's famous uppercut that launches enemies\ninto the air.\n$ + ~
+Uppercut 2.\nA 2nd uppercut following the 1st that keeps\nenemies in the air.\n$ + ~ , ~
+Uppercut 3.\nA third, more destructive uppercut keeping enemies\nin the air.\n$ + ~ , ~ , ~
+Uppercut 4.\nA fourth Uppercut that deals fire damage to the enemy.\n$ + ~ , ~ , ~ , ~
+Uppercut 5.\n(TBD)\n$+~+~+~+~+~
+Spin Attack.\nKung Lao spins at high speeds launching enemies\ninto the air.\n$ + ~
+Spin Repeat.\nAllows Kung Lao to repeatedly\nspin attack enemies.\n$ + ~ , ~ , ~
+Pulse Spin.\nKung Lao increases the speed of his spin, creating a\npulse to cover a larger area.\n$ + ~ , |
+Spin Attack 4.\nTBD\n$+~+~+~+~
+Spin Attack 5.\nTBD\n$+~+~+~+~+~
+Slide Attack\nSub-Zero slides along the ground, launching foes\ninto the air.\n$ + ~
+Slide Uppercut\nSub-Zero launches the enemy into\nthe air at the end of his slide.\n$ + ~ , ~
+Slide Grenade\nAt the end of his slide, Sub-Zero\nhurls an ice grenade at his opponent.\n$ + ~ , |
+(PH) Sub-Zero Triangle 4\nDescription\nKey Sequence
+(PH) Sub-Zero Triangle 5\nDescription\nKey Sequence
+Uppercut\nScorpion uses an uppercut to knock enemies into\nthe air.\n$ + ~
+Inferno Uppercut\nScorpion unleashes a flaming uppercut to\nlaunch his enemy into the air.\n$ + ~
+Hellfire Fist\nAfter The Inferno Uppercut, Scorpion follows his\nfoe into the air and ends it with a\ngreat throw.\n$ + ~ , ^
+(PH) Scorpion Triangle 4\nDescription\nKey Sequence
+(PH) Scorpion Triangle 5\nDescription\nKey Sequence
+Bladed Uppercut\nA vicious uppercut with Baraka's bladed arms.\n$ + ~
+(PH) Baraka Triangle 2\nDescription\nKey Sequence
+(PH) Baraka Triangle 3\nDescription\nKey Sequence
+(PH) Baraka Triangle 4\nDescription\nKey Sequence
+(PH) Baraka Triangle 5\nDescription\nKey Sequence
+Slide Attack\nReptile slides along the ground, launching foes into the air.\n$ + ~
+(PH) Reptile Triangle 2\nDescription\nKey Sequence
+(PH) Reptile Triangle 3\nDescription\nKey Sequence
+(PH) Reptile Triangle 4\nDescription\nKey Sequence
+(PH) Reptile Triangle 5\nDescription\nKey Sequence
+Fan Lifter Attack\nKitana lifts enemies off the ground with rapid fan movments.\n$ + ~
+(PH) Kitana Triangle 2\nDescription\nKey Sequence
+(PH) Kitana Triangle 3\nDescription\nKey Sequence
+(PH) Kitana Triangle 4\nDescription\nKey Sequence
+(PH) Kitana Triangle 5\nDescription\nKey Sequence
+Shadow Uppercut\nJohnny Cages' signature uppercut move.\n$ + ~
+(PH) Johnny Cage Triangle 2\nDescription\nKey Sequence
+(PH) Johnny Cage Triangle 3\nDescription\nKey Sequence
+(PH) Johnny Cage Triangle 4\nDescription\nKey Sequence
+(PH) Johnny Cage Triangle 5\nDescription\nKey Sequence
+Flying Kick.\nLiu Kang performs a powerful forward propelled kick.\n$ + |
+Bicycle Kick.\nA charge move where Liu Kang delivers a\nseries of short repetitive kicks in the\nair after a Flying Kick.\n$ + | (Hold 2 sec.)
+Bicycle/Flying kick.\nA Flying kick followed by a Bicycle kick in Succession.\n$ + | (Hold 2 sec.) , |.
+Flying Kick 4.\nTBD\n$+???
+Flying Kick 5.\nTBD\n$+???
+Hat Toss Straight.\nKung Lao throws his bladed hat at an enemy.\n$ + |
+Hat Toss Ricochet.\nKung Lao's bladed hat will ricochet off of solid objects.\n$ + |
+Hat Toss spin.\nThrown Hat damages enemies in an area ahead\nof Kung Lao.\n$ + | (Hold 2 sec.)
+Hat Toss Spin 2.\nThrown hat damages enemies in an area around Kung Lao.\n$ + | (Hold 2 sec.)
+Hat Option.\nKung Lao's Hat orbits his body and protects\nhim like a Shield.\n$ + |  (Hold 3 sec.)
+Ground Freeze.\nSub-Zero Freezes the ground, making enemies\nlose footing.\n$ + |
+Winter's Flurry.\nSub-Zero Freezes the ground in front and behind himself.\n$ + | (Hold 2 sec)
+Blizzard Ring.\nSub-Zero Freezes a ring 360 degrees around himself.\n$ + | (Hold 3 sec)
+(PH) Sub-Zero Circle 4\nDescription\nKey Sequence
+(PH) Sub-Zero Circle 5\nDescription\nKey Sequence
+Spear Throw.\nScorpion throws his spear to pull an enemy\nwithin striking distance.\n$ + |
+Spear Kata.\nScorpion Kicks his spear towards his opponents.\n$ + | (Hold 2 sec)
+Inferno Spin.\nScorpion Spins in circles with his spear.\n$ + | (Hold 3 sec)
+(PH) Scorpion Circle 4\nDescription\nKey Sequence
+(PH) Scorpion Circle 5\nDescription\nKey Sequence
+Scissor Attack\nBaraka performs a devastating Scissor Blade Attack.\n$ + |
+(PH) Baraka Circle 2\nDescription\nKey Sequence
+(PH) Baraka Circle 3\nDescription\nKey Sequence
+(PH) Baraka Circle 4\nDescription\nKey Sequence
+(PH) Baraka Circle 5\nDescription\nKey Sequence
+Force Ball\nA ball of energy that launches enemies into the air.\n$ + |
+(PH) Reptile Circle 2\nDescription\nKey Sequence
+(PH) Reptile Circle 3\nDescription\nKey Sequence
+(PH) Reptile Circle 4\nDescription\nKey Sequence
+(PH) Reptile Circle 5\nDescription\nKey Sequence
+Fan Throw\nKatana hurls her fans at her foes.\n$ + |
+(PH) Kitana Circle 2\nDescription\nKey Sequence
+(PH) Kitana Circle 3\nDescription\nKey Sequence
+(PH) Kitana Circle 4\nDescription\nKey Sequence
+(PH) Kitana Circle 5\nDescription\nKey Sequence
+Shadow Kick\nJohnny Cages' signiture shadow kick move.\n$ + |
+(PH) Johnny Cage Circle 2\nDescription\nKey Sequence
+(PH) Johnny Cage Circle 3\nDescription\nKey Sequence
+(PH) Johnny Cage Circle 4\nDescription\nKey Sequence
+(PH) Johnny Cage Circle 5\nDescription\nKey Sequence
+Dragon Grapple.\nUse to carry, to throw, or to begin an attack on an\nenemy.\n$ + ^
+Run Off Back.\nAn attack where Liu Kang runs off the enemy's back.\n$ + ^ , *
+Flip Up.\nAn attack where Liu Kang flips the enemy up into the air.\n$ + ^ , ~
+Power Slam.\nLiu Kang propels an enemy into the ground.\n$ + ^ , |
+Directional Throw.\nLiu Kang throws the enemy away from himself.\n$ + ^ +  { / } / < / > , ^
+Enemy Manipulation.\nAn attack used to grapple an enemy.\n$ + ^. To Release Press =
+Head Smack.\nKung Lao hits the enemy in the face while held.\n$ + ^ , *
+Flip Up.\nKung Lao flips the held enemy into the air.\n$ + ^ , ~
+Power Slam.\nKung Lao propels the held enemy into the ground.\n$ + ^ , |
+Control Enemy Attack.\nKung Lao is able to use the held enemy to\nstrike other enemies.\n$ + ^ + { / } / < / > , ^
+Dragon Grapple.\nUse to carry, to throw, or to begin an attack on\nan enemy.\n$ + ^
+Run Off Back.\nAn attack where Sub-Zero runs off the enemy's back.\n$ + ^ , *
+Flip Up.\nAn attack where Sub-Zero flips the enemy up into the air.\n$ + ^ , ~
+Power Slam.\nSub-Zero propels an enemy into the ground.\n$ + ^ , |
+Directional Throw.\nSub-Zero throws the enemy away from himself.\n$ + ^ + { / } / < / > , ^
+Enemy Manipulation.\nAn attack used to grapple an enemy.\n$ + ^. To Release Press =.
+Head Smack.\nScorpion hits the enemy in the face while held.\n$ + ^ , *
+Flip Up.\nScorpion flips the held enemy into the air.\n$ + ^ , ~
+Power Slam.\nScorpion propels the held enemy into the ground.\n$ + ^ , |
+Control Enemy Attack.\nScorpion is able to use the held enemy to\nstrike other enemies.\n$ + ^ + { / } / < / > , ^
+Dragon Grapple.\nUse to carry, to throw, or to begin an attack on an enemy.\n$ + ^
+Run Off Back.\nAn attack where Baraka runs off the enemy's back.\n$+^ then *
+Flip Up.\nAn attack where Baraka flips the enemy up into the air.\n$+^ then ~
+Power Slam.\nBaraka propels an enemy into the ground.\n$+^ then |
+Directional Throw.\nBaraka throws the enemy away from himself.\n$ + ^ then  Press any direction + ^
+Dragon Grapple.\nUse to carry, to throw, or to begin an attack on an enemy. \n$ + ^
+Run Off Back.\nAn attack where Reptile runs off the enemy's back.\n$ + ^ then *
+Flip Up.\nAn attack where Reptile flips the enemy up into the air.\n$ + ^ then ~
+Power Slam.\nReptile propels an enemy into the ground.\n$ + ^ then |
+Directional Throw.\nReptile throws the enemy away from himself.\n$ + ^ then  Press any direction + ^
+Enemy Manipulation.\nAn attack used to grapple an enemy\n$ + ^. To Release Press =.
+(PH) Kitana $ 2\nDescription\nKey Sequence
+(PH) Kitana $ 3\nDescription\nKey Sequence
+(PH) Kitana $ 4\nDescription\nKey Sequence
+(PH) Kitana $ 5\nDescription\nKey Sequence
+(PH) Johnny Cage $ 2\nDescription\nKey Sequence
+(PH) Johnny Cage $ 3\nDescription\nKey Sequence
+(PH) Johnny Cage $ 4\nDescription\nKey Sequence
+(PH) Johnny Cage $ 5\nDescription\nKey Sequence
+Combo 1
+Combo 2
+Combo 3
+Combo 4
+Combo 5
+Combo 6
+Combo: Fire-Ender\n ~ , * , *
+Combo: Run-Ender\n ~ , | then press * / ~ / | / ^
+Combo: More Air Combo Hits\n* , * , * , * , *
+Combo: Auto-Launcher\n * , * , | , ~ / *
+Combo: Special Throw\n * , * , * , ^
+Combo: Fire Kick Ender\n * , * , | , *
+Combo: Stun-Ender \n~ , * , *
+Combo: Auto-Launcher\n Press ~ while Running
+Combo: Run-Ender\nPress | then ~ / * / |
+Combo: Throw-Ender\n* , * , * , ^
+Combo: More Dive Kicks\n* , * , * , * , *
+Combo: Ice Dragon Uppercut\n* , * , * , ~
+Combo: Ice Kick\n* , * , ~ , |
+Combo: Ice Grenade:\n~ , | , |
+(PH) Sub-Zero Combo 4\nDescription\nKey Sequence
+(PH) Sub-Zero Combo 5\nDescription\nKey Sequence
+Combo: Air Throw Ender\n~ , ~ , ^
+Combo: Takedown Ender\n* , * , * , ^ 
+Combo: Flame Punch Stun\n* , * , | 
+Combo: Spear Kick Ender\n* , * , | , * , |
+(PH) Scorpion Combo 5\nDescription\nKey Sequence
+Bladeflip\n~ + ^
+(PH) Baraka Combo 2\nDescription\nKey Sequence
+(PH) Baraka Combo 3\nDescription\nKey Sequence
+(PH) Baraka Combo 4\nDescription\nKey Sequence
+(PH) Baraka Combo 5\nDescription\nKey Sequence
+(PH) Reptile Combo 1\nDescription\nKey Sequence
+(PH) Reptile Combo 2\nDescription\nKey Sequence
+(PH) Reptile Combo 3\nDescription\nKey Sequence
+(PH) Reptile Combo 4\nDescription\nKey Sequence
+(PH) Reptile Combo 5\nDescription\nKey Sequence
+Combo: Fan Flury\n\n* + * + * + |
+Combo: Wind Wave\n\n~ + ~ + | 
+(PH) Kitana Combo 3\nDescription\nKey Sequence
+(PH) Kitana Combo 4\nDescription\nKey Sequence
+(PH) Kitana Combo 5\nDescription\nKey Sequence
+Combo: Groin Punch\nJohnny Cage does the splits and Punches his opponent in the groin.\n~ + * + *
+Combo: Backfist Fire Ender\n\n ~ + * + *
+Combo: Double Power Hit\n | + |
+(PH) Johnny Cage Combo 4\nDescription\nKey Sequence
+(PH) Johnny Cage Combo 5\nDescription\nKey Sequence
+Team Attack 1
+Team Attack 2
+Shaolin Spin.\nLiu Kang and his ally fight in unison, covering a large\narea around them.\n$ + ^ towards Kung Lao.
+Fireball Ricochet.\nKung Lao deflects Liu Kang's Fireballs in multiple\ndirections.\n$ , * at Kung Lao.
+Fireball Ricochet.\nKung Lao deflects Liu Kang's Fireballs in multiple\ndirections.\n$ , ~ to deflect fireball.
+Blade Inferno.\nLiu Kang and Kung Lao damage enemies in an area\naround them.\n$ + ^ toward Liu Kang.
+Shaolin Spin\nSub-Zero and his ally fight in unison, covering a large\narea around them.\n$ + ^ towards ally.
+(PH) Sub-Zero Team Attack 2\nDescription\nKey Sequence
+Shaolin Spin\nScorpion and his ally fight in unison, covering a large area around them.\nGrab your ally with $+^.
+(PH) Scorpion Team Attack 2\nDescription\nKey Sequence
+Shaolin Soccer
+Bonebreak Combo
+Fire/Kick Combo
+Flipping Uppercut
+Dragon
+Arm Beating
+Giant Stomp
+Head Clap
+Fire Trails
+Dragons Fury
+Rage Mode
+Body Slice
+Mid Air Slice
+Friendly Rabbit
+Arm Cutter
+Head Toss
+Many Chops
+Headache
+Buzzsaw
+Rabbit Attack
+Tornado
+Hat Control
+Razor Edge
+Spine Rip
+Snowball
+Freeze Uppercut
+(PH) Sub-Zero lvl 1 Fatality (4)
+(PH) Sub-Zero lvl 1 Fatality (5)
+(PH) Sub-Zero lvl 1 Fatality (6)
+(PH) Sub-Zero lvl 1 Fatality (7)
+Ice Stomp
+(PH) Sub-Zero lvl 2 Fatality (9)
+(PH) Sub-Zero lvl 2 Fatality (10)
+(PH) Sub-Zero lvl 2 Fatality (11)
+Frostbite Rage
+Spear Slice
+Flame
+(PH) Scorpion lvl 1 Fatality (3)
+(PH) Scorpion lvl 1 Fatality (4)
+(PH) Scorpion lvl 1 Fatality (5)
+(PH) Scorpion lvl 1 Fatality (6)
+(PH) Scorpion lvl 1 Fatality (7)
+Raise Hell
+(PH) Scorpion lvl 2 Fatality (9)
+(PH) Scorpion lvl 2 Fatality (10)
+(PH) Scorpion lvl 2 Fatality (11)
+Searing Blade
+Blade Lift
+Head Chop
+(PH) Baraka lvl 1 Fatality (3)
+(PH) Baraka lvl 1 Fatality (4)
+(PH) Baraka lvl 1 Fatality (5)
+(PH) Baraka lvl 1 Fatality (6)
+(PH) Baraka lvl 1 Fatality (7)
+(PH) Baraka lvl 2 Fatality (8)
+(PH) Baraka lvl 2 Fatality (9)
+(PH) Baraka lvl 2 Fatality (10)
+(PH) Baraka lvl 2 Fatality (11)
+(PH) Baraka lvl 3 Fatality (12)
+Hidden Chomp
+Lunch
+Head Eat
+(PH) Reptile lvl 1 Fatality (4)
+(PH) Reptile lvl 1 Fatality (5)
+(PH) Reptile lvl 1 Fatality (6)
+(PH) Reptile lvl 1 Fatality (7)
+(PH) Reptile lvl 2 Fatality (8)
+(PH) Reptile lvl 2 Fatality (9)
+(PH) Reptile lvl 2 Fatality (10)
+(PH) Reptile lvl 2 Fatality (11)
+(PH) Reptile lvl 3 Fatality (12)
+Kiss Of Death
+(PH) Kitana lvl 1 Fatality (3)
+(PH) Kitana lvl 1 Fatality (4)
+(PH) Kitana lvl 1 Fatality (5)
+(PH) Kitana lvl 1 Fatality (6)
+(PH) Kitana lvl 1 Fatality (7)
+(PH) Kitana lvl 2 Fatality (8)
+(PH) Kitana lvl 2 Fatality (9)
+(PH) Kitana lvl 2 Fatality (10)
+(PH) Kitana lvl 2 Fatality (11)
+(PH) Kitana lvl 3 Fatality (12)
+Head Uppercut
+Groin Bashing
+Torso Rip
+(PH) Johnny Cage lvl 1 Fatality (4)
+(PH) Johnny Cage lvl 1 Fatality (5)
+(PH) Johnny Cage lvl 1 Fatality (6)
+(PH) Johnny Cage lvl 1 Fatality (7)
+(PH) Johnny Cage lvl 2 Fatality (8)
+(PH) Johnny Cage lvl 2 Fatality (9)
+(PH) Johnny Cage lvl 2 Fatality (10)
+(PH) Johnny Cage lvl 2 Fatality (11)
+(PH) Johnny Cage lvl 3 Fatality (12)
+}  <  {  >  *
+<  {  {  >  *
+<  >  }  }  *
+{  >  }  <  *
+}  >  <  <  *
+}  >  }  >  *
+<  <  <  {  *
+>  {  >  {  *
+{  }  {  }  ~
+<  >  {  {  ~
+>  {  }  }  |
+>  >  >  >  |
+>  >  >  >  *
+{  {  {  >  *
+{  {  {  }  *
+<  >  <  }  *
+<  >  <  <  *
+{  {  <  {  *
+{  }  {  >  *
+>  >  {  {  *
+<  {  >  >  *
+{  >  }  <  ~
+<  >  >  <  ~
+<  <  {  {  |
+>  }  >  >  *
+<  <  }  >  *
+>  >  }  >  *
+(PH) Sub-Zero lvl 1 Fatality (4) Inputs
+(PH) Sub-Zero lvl 1 Fatality (5) Inputs
+(PH) Sub-Zero lvl 1 Fatality (6) Inputs
+(PH) Sub-Zero lvl 1 Fatality (7) Inputs
+{  {  } { ~
+(PH) Sub-Zero lvl 2 Fatality (9) Inputs
+(PH) Sub-Zero lvl 2 Fatality (10) Inputs
+(PH) Sub-Zero lvl 2 Fatality (11) Inputs
+{  }  <  {  |
+{  {  }  }  *
+(PH) Scorpion lvl 1 Fatality (3) Inputs
+(PH) Scorpion lvl 1 Fatality (4) Inputs
+(PH) Scorpion lvl 1 Fatality (5) Inputs
+(PH) Scorpion lvl 1 Fatality (6) Inputs
+(PH) Scorpion lvl 1 Fatality (7) Inputs
+}  }  }  {  ~
+(PH) Scorpion lvl 2 Fatality (9) Inputs
+(PH) Scorpion lvl 2 Fatality (10) Inputs
+(PH) Scorpion lvl 2 Fatality (11) Inputs
+>  <  >  >  |
+}  <  >  >  *
+<  <  <  <  *
+(PH) Baraka lvl 1 Fatality (3) Inputs
+(PH) Baraka lvl 1 Fatality (4) Inputs
+(PH) Baraka lvl 1 Fatality (5) Inputs
+(PH) Baraka lvl 1 Fatality (6) Inputs
+(PH) Baraka lvl 1 Fatality (7) Inputs
+(PH) Baraka lvl 2 Fatality (8) Inputs
+(PH) Baraka lvl 2 Fatality (9) Inputs
+(PH) Baraka lvl 2 Fatality (10) Inputs
+(PH) Baraka lvl 2 Fatality (11) Inputs
+(PH) Baraka lvl 3 Fatality (12) Inputs
+<  <  <  }  *
+(PH) Reptile lvl 1 Fatality (3) Inputs
+(PH) Reptile lvl 1 Fatality (4) Inputs
+(PH) Reptile lvl 1 Fatality (5) Inputs
+(PH) Reptile lvl 1 Fatality (6) Inputs
+(PH) Reptile lvl 1 Fatality (7) Inputs
+(PH) Reptile lvl 2 Fatality (8) Inputs
+(PH) Reptile lvl 2 Fatality (9) Inputs
+(PH) Reptile lvl 2 Fatality (10) Inputs
+(PH) Reptile lvl 2 Fatality (11) Inputs
+(PH) Reptile lvl 3 Fatality (12) Inputs
+<  <  >  >  *
+(PH) Kitana lvl 1 Fatality (3) Inputs
+(PH) Kitana lvl 1 Fatality (4) Inputs
+(PH) Kitana lvl 1 Fatality (5) Inputs
+(PH) Kitana lvl 1 Fatality (6) Inputs
+(PH) Kitana lvl 1 Fatality (7) Inputs
+(PH) Kitana lvl 2 Fatality (8) Inputs
+(PH) Kitana lvl 2 Fatality (9) Inputs
+(PH) Kitana lvl 2 Fatality (10) Inputs
+(PH) Kitana lvl 2 Fatality (11) Inputs
+(PH) Kitana lvl 3 Fatality (12) Inputs
+>  >  <  <  *
+}  }  >  >  *
+(PH) Johnny Cage lvl 1 Fatality (4) Inputs
+(PH) Johnny Cage lvl 1 Fatality (5) Inputs
+(PH) Johnny Cage lvl 1 Fatality (6) Inputs
+(PH) Johnny Cage lvl 1 Fatality (7) Inputs
+(PH) Johnny Cage lvl 2 Fatality (8) Inputs
+(PH) Johnny Cage lvl 2 Fatality (9) Inputs
+(PH) Johnny Cage lvl 2 Fatality (10) Inputs
+(PH) Johnny Cage lvl 2 Fatality (11) Inputs
+(PH) Johnny Cage lvl 3 Fatality (12) Inputs
+Smoke 1
+Smoke 2
+Smoke 3
+Smoke 4
+Smoke 5
+Smoke 6
+Smoke 7
+Smoke Quest 1\n(Soul Tombs)\nBreak down the walls in the Soul\nTombs to find the hidden fatality
+Smoke Quest 2\n(Wu-shi Academy)\nDestroy evil barriers to find the Warrior Shrine.
+Smoke Quest 3\n(Soul Tombs)\nPerform 3 sacrifices in the tourture room.
+Smoke Quest 4\n(TBD)\n TBD
+Smoke Quest 5\n(TBD)\n TBD
+Smoke Quest 6\n(TBD)\n TBD
+Smoke Quest 7\n(TBD)\n TBD
+EXP Multiplier:\nMultiplies experience points gained from kills.\nIncreases every 10 combo hits or enemy kill.
+Control your enemies:\nUse the Left Analog Stick ] to aim where\nan opponent will land during a throw (^).
+Enemy Manipulation ($ + ^):\nUse manipulation to turn your\nenemy into a human shield\nor manipulate them into a hazard.
+Secrets:\nA secret can be found in every\narea of the game.
+Charged power attack:\nYou can charge certain characters\npower attacks by holding down |.
+Experience Points:\nUse your experience points to upgrade\nyour character's moves in the Pause Menu.
+Environment Hazards:\nYou can use items in the\n environment to quickly dispatch enemies.
+Environment Kills:\nNo EXP is awarded when an enemy has\nbeen killed using environmental hazards.
+Weapons:\nImpaled weapons deal damage over time.\n^ throws weapons when held.
+Get Up Quickly:\n While lying on the ground,\npress = to Stand up faster.
+Air Recovery:\nIf you are hit while in the\nair, press = to recover.
+Running Throws (^ while running):\nYou can use an enemy's body to\ndamage other enemies using a running throw.
+Weapons:\nWeapon Strikes cannot be blocked.\nIt may be useful to use a weapon against\nstrong enemies.
+Breakable Objects:\nIf you are low on health, find a\ndestructible object. it may contain health.
+Camera Control:\nUse ` to look around. You\nmay find things that you didn't notice before.
+Clay Soldiers:\nDestroying the Clay Soldiers' shields with a\npowerful attack will make them easier to fight.
+Fist Of Ruin:\nYou can use this ability to destroy\nobjects that blocked your path before.
+Fatalities:\nUsing fatalities on enemies gives you bonus\nEXP. Multalities and Brutalities do not.
+Long Jump Attack:\nWhen doing a long jump ($ + =), press an attack\nButton and your character will do an attack.
+Blocking:\nBlocking drains your Energy meter. \nYou cannot block if you have no energy.
+Revisiting Areas:\nRevisit areas you have been to with\nnew abilities. You may find something new.
+Team Attacks:\nYou can use team attacks in Ko-op\nMode to clear an area of enemies.
+Orochi Hellbeast:\nBeware of the Orochi Hellbeast, it can use\nother enemies to replenish its health.
+Map:\nYou can find a map that contains all of the\nareas you have visited in the Pause Menu.
+Air Kombat:\nYou can take your fight to the\nair and attack airborne enemies.
+Evades:\nYou can Evade enemy attacks by\nholding # and pressing =.
+Rivalry:\nRed and Black Dragon Mercenaries\nwill fight each other if you let them.
+Elemental Knights:\nElemental Knights cannot be defeated\nby normal means.
+Masked Guards:\nBlock Masked Guards' attacks to\nopen their defenses.
+Objects of Interest:\nObjects of interest will display ^\nin the bottom right of the screen.
+Camera Types:\nYou can change the camera types to\nplay the game by pressing the R3 Button.
+Secret Coins:\nIf you find Secret Coins that\nare out of reach, shoot them\nwith a projectile attack.
+Shadow Priests:\nShadow Priests can not be thrown. You\nmust find another way to fight them.
+Ko-op Combos:\nIf Ko-op players hit the same enemy,\nthey will get a health boost when it dies.
+Ko-op Rooms:\nThere are some areas in the game that\ncan only be accessed in Ko-op Mode.
+Ko-op Secrets:\nThere are some secrets in the game that\nyou can only get in Ko-op Mode.
+Fatalities:\nYou can find a list of all of your\navailable Fatalities in the Pause Menu.
+Game Stats:\nYou can find a list of all your\nGame Statistics in the Pause Menu.
+Ko-op Switches:\nThere are colored plates in some levels\nthat you will need an ally to use.
+Weapons:\nIt is not possible to block enemy\nattacks while holding a weapon.
+EXP Multiplier: Multiplies experience\npoints gained from kills. Increases for\nevery 10 combo hits or enemy kill.
+Control your enemies:\nUse the left thumbstick ] to aim where\nan opponent will land during a throw (^).
+Enemy Manipulation ($ + ^): Use\nmanipulation to turn your enemy into a\nhuman shield or manipulate them into a\nhazard.
+Secrets:\nA secret can be found in\nevery area of the game.
+Running Throws (^ while running):\nYou can use an enemy's body to damage\nother enemies using a running throw.
+Camera Control:\nUse the right thumbstick ` to\nlook around. You may find things\nthat you didn't notice before.
+Clay Soldiers: Destroying the\nClay Soldiers' shields with a powerful\nattack will make them easier to fight.
+Long Jump Attack: When doing a\nlong jump ($ + =), press an attack button\nand your character will do an attack.
+Evades: You can Evade\nenemy attacks by\npulling and holding #\nand pressing =
+Objects of Interest:\nObjects of interest will display an ^\nin the bottom right of the screen.
+Camera Types:\nYou can change camera types to play the\ngame by clicking the right thumbstick `.
+Secret Coins:\nIf you find Secret Coins that are out of\nreach, shoot them with a projectile attack.
+Shadow Priests:\nShadow Priests can not be thrown, you\nmust find another way to fight them.
+Wall Climb
+Wall Run
+Wall Jump
+Double Jump
+Long Jump
+Swing on Poles
+Fist Of Ruin
+Wall Run is the ability to run along vertical surfaces.\nThis move is useful for traversing pits or travelling\nthrough areas which are otherwise impossible to reach.\n$ (Into Wall)
+The ability to leap off walls. Use for navigational\npurposes or for gaining ground to levy air attacks.\n= (Towards Wall)
+The Double Jump adds an extra jump height on top of the\ncurrent jump. This move also resets the air state, which\nallows for bigger and better combos.\n= + =
+The Long Jump is a low jump that travels a great\nhorizontal distance. Used for clearing very\nwide pits or ravines.\n$ + =
+The Pole Swing is the ability to swing on poles.\nNecessary for navigational purposes.\n= to jump up to pole.
+The Fist of Ruin is the capability to break\ncertain objects in the environment.\n|
+Ground Tech
+Air Tech
+Evades
+Getup Attacks
+Allows the player to get up quickly\nwhile on the ground.\n= (On Ground) 
+Allows the player to flip out and recover\nfrom an air reaction.\n= (In Air)
+Allows the Player to avoid enemy attacks.\nhold # + { / } / < / > + =
+Allows the Player to attack surrounding enemies\nwhen getting up.\n*/~/| (on ground)
+= Toggle Map  ~ Exit  </> Navigate
+= Select  ~ Exit  {/} Navigate
+~ Exit  {/} Navigate
+= Select  ~ Restart  {/} Navigate
+= Accept ~ Exit {/} Navigate </> Adjust 
+= Select  </> Navigate
+Music Volume
+Sound Effects 
+Speech Volume
+Audio Output
+Brightness
+Controls
+Press START
+Press START button
+Adjust brightness until dragon\nis FIRST visible.
+Single Player
+Ko-op
+Kontent
+Versus
+Practice Mode
+Mortal Kombat2
+Game Events
+Extra Characters
+??????
+Select Difficulty
+Game Type
+Start MK2 Game
+New Game
+Accept
+Cancel
+Random
+Quit Character Select?\nProgress will be lost.
+< > Select
+~
+|
+*
+Locked for E3 Demo
+Locked
+Need 2 DUALSHOCK®2 analog controllers
+Enter
+Back
+Default
+Video Config
+Controller Config
+Audio Config
+Gameplay Config
+Save option setting\nto memory card (PS2)?
+Contrast
+Widescreen
+Progressive
+Position
+< > { }\nto Adjust Screen Position
+< > Adjust
+{ } Select
+On
+Off
+Mono
+Stereo
+Surround
+Digital
+Rounds
+Match Time
+Blood
+Inverted
+Camera Control
+Fatality
+Lock-on
+Stats
+Quick\nAttacks
+Throws
+Modifier
+Launch\nAttacks
+Power\nAttacks
+Jump/\nEvade
+Camera\nControl
+Move
+Fatality Input\nMinimap Control
+< > { } Navigate
+Arenas 
+Concept
+Movies
+Photos
+Soundtrack
+Kredits
+Player        Level     Progress   Time
+Empty             ---             -          -
+> Next
+< Prev.
+Play Game Demo?
+
+Midway Games, Inc.
+Executive Producer &\nCreative Director
+Art Directors
+Producer
+Midway - San Diego
+Technical Director
+Associate Producer
+Assistant Producer
+Mortal Kombat Team - Los Angeles
+Lead Designers
+Two-Player Designer
+Level Designers
+Camera Designer
+Lead Programmer
+Graphics System Programmer
+Game Progammers
+Systems Programmers
+Additional Programming
+Lead Character Artist
+Character Artist
+Lead Background Artist
+Background Concepts
+Front End Artwork
+Lead Animator
+Animators
+A/V Implementation
+Production Support
+System Adminstrator
+Testers
+Office Manager
+Art Director
+Production Director
+Director of Operations
+Studio Head
+Mortal Kombat Team - Chicago
+Motion Capture and Animations
+Audio Lead
+Music, Effects and Speech
+Additional Audio
+Music Composition on Opening Cinematic
+Additional Technical Support
+Renders
+Additional Art Support
+Cinematics Manager
+Cinematic Director
+Cinematics Graphics and Animation
+Story by
+Story Support
+Additional Production Support
+Localization Support
+Voice Talent
+English
+Spanish
+French
+Italian
+German
+Motion Capture Talent
+Production Development Director - Art
+Quality Assurance - San Diego
+Director of QA
+QA Manager
+QA Supervisor
+Lead Product Analyst
+Technical Standards Analysts
+Product Analysts
+Localization Supervisors
+Localization Product Analysts
+Quality Assurance - Chicago
+Chicago QA Supervisor
+Print Design & Production
+Midway Management
+Chicago Studio Head
+Marketing and Media Relations
+Midway Legal
+Creative Media
+Additional Thanks
+Lead Programmer Xbox
+Two-Player Programmer
+Background Artists
+Secrets and Menu Designer
+Additional Enemy/Character Design
+Additional Effects Design
+International Coordination
+Main Menu
+Start Liu Kang
+Start Kung Lao
+Liu Kang KJM
+Kung Lao KJM
+Start Ko-op
+MKSM
+Camera: Close
+Camera: Normal
+Camera: Panoramic
+Double Damage
+Monkey Swing
+Shield
+Small Energy
+Large Energy
+Small Health
+Medium Health
+Large Health
+Broadsword
+Kama
+Staff
+Sword
+Exp
+Trap!
+P1 Fatality Level
+P2 Fatality Level
+Fatality Level 0
+Fatality Level 1
+Fatality Level 2
+Fatality Level 3
+God Mode On
+God Mode Off
+Excellent
+Superb
+Outstanding
+Impressive
+Exceptional
+Superior
+Phenomenal
+Flawless
+Destructive
+Savage
+Chaotic
+Catastrophic
+Lethal
+Fatal
+Unbelievable
+Outrageous
+Ludicrous
+Impossible
+LIU KANG
+KUNG LAO
+NULL (BANSHEE)
+NULL (CANNON DEMON)
+CLAY SOLDIER
+NULL (ARMOR LION)
+NULL (NINJA)
+NULL (FEMALE NINJA)
+BLOODY SKELETON
+BLACK DRAGON MERC
+DEMON CAPTAIN
+DEMON GENERAL
+DEMON ARCHER
+DEMON HANDLER
+TARKATA
+ONI
+RED DRAGON MERC
+BROTHER OF SHADOW
+PUTRID CORPSE
+ELEMENTAL KNIGHT
+NULL (NINJA WRAITH)
+NULL (PLAINS SNAKE)
+HANGING CORPSE
+NULL (SHIVA)
+NULL (CHAN CHAN)
+NULL (TURBAN GUARD)
+MASK GUARD
+SHADOW PRIEST
+NULL (GREEN TARKATA)
+UNDEAD CORPSE
+OROCHI HELLBEAST
+NULL (SHOKAN)
+NULL
+NULL (NAGIRI SWAMP)
+ONI WARLORD
+NULL (SPIRIT MASK BASIC)
+GIANT WINGS
+CROW
+LIVING TREE MOUTH
+LIVING TREE ARMS
+BAT
+SNAKE
+SKULL
+GORO
+NULL (TENTACLE)
+NULL (SNAKE BOSS RIDER)
+ACID SNAKE
+NULL (TIGER BOSS)
+SCORPION
+NOOB SAIBOT
+KANO
+INFERNO SCORPION
+BARAKA
+KINTARO
+REPTILE
+NULL (ICE BOSS)
+NULL (WIND BOSS)
+SHANG TSUNG
+SHAO KAHN
+KITANA
+MILEENA
+JADE
+ERMAC
+SUB-ZERO
+SMOKE
+JOHNNY CAGE
+RAIDEN
+KABAL
+JAX
+SONYA
+BURNING MONK
+ORDER OF LIGHT MONK
+NULL (TORTURED PERSON)
+NULL (DISMEMBERED BODY)
+PTER0DACTYL
+STONE JOHNNY CAGE
+NULL (TARKATA GRUNT)

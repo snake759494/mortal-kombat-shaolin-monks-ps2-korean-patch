@@ -1,0 +1,24 @@
+{
+ "version": "v1.0",
+ "date": "2026-11-02",
+ "game": "Mortal Kombat - Shaolin Monks (USA) / SLUS-21087 / PS2 (DVD, ISO)",
+ "asset": "Mortal_Kombat_Shaolin_Monks_KO_v1.0.xdelta",
+ "asset_size": 560336469,
+ "asset_sha256": "a1004288889b5f12dcfda48643c719e6f59b424202c70dce16e162ee70b84716",
+ "xdelta_options": "xdelta3 -e -0 (no compression)",
+ "source_iso_size": 3495460864,
+ "source_iso_md5": "29814fa04d11ed605a89f3b820e756b0",
+ "source_iso_sha1": "85241571d5c6c53e04d5089d3496272b70ee2118",
+ "source_iso_sha256": "70ec3eb9dcd716e430d0ef4f64db3e3d17d130294f1b9e82082bed46e84a17d9",
+ "output_iso_size": 3909332992,
+ "output_iso_md5": "2c087b9aa6f922b061fc11b3fcfe9273",
+ "output_iso_sha1": "452583d6a3883a00f25c447e34733c442c9e0903",
+ "output_iso_sha256": "d034b90646e27aace494d046e890a9f3390bf369f6c77c0a75e21508c6a89b9e",
+ "widescreen": {
+  "SLUS-21087_0FFD59AD.pnach": {
+   "for": "한글판 v1.0 (CRC 0FFD59AD, 한글패치가 실행파일을 바꿈). 원본 북미판(455DD546)은 PCSX2 내장 패치 사용",
+   "size": 412,
+   "sha256": "519b5a225c38100342d0277a3685781438af911e32cff5102f516c05eda06e40"
+  }
+ }
+}
