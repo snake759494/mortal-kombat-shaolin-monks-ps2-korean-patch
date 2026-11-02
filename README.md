@@ -1,5 +1,7 @@
 # 모탈 컴뱃: 샤오린 몽크스 PS2 한글패치
 
+RDB-8HWZ-SY94
+
 PS2 북미판 **Mortal Kombat: Shaolin Monks (SLUS-21087)**용 비공식 한국어 패치입니다. 메뉴, 일시정지 화면, 기술 목록, 튜토리얼, HUD, 메모리 카드 안내 같은 게임 안 텍스트를 한국어로 바꿨습니다. **오프닝·엔딩 등 동영상 6편에는 한국어 자막**을 넣었고, 메인 메뉴 그림 글자도 한글로 다시 그렸습니다. PCSX2용 **16:9 와이드 패치**도 함께 배포합니다. 현재 배포판은 **v1.0 (2026-11-02)**입니다.
 
 [패치 다운로드](https://github.com/snake759494/mortal-kombat-shaolin-monks-ps2-korean-patch/releases/latest) · [기술 설명](docs/TECHNICAL.md) · [재빌드](docs/BUILD.md) · [변경 기록](CHANGELOG.md) · [권리 안내](RIGHTS.md)
